@@ -1,0 +1,21 @@
+{
+  "name": "campus-notification-system-backend",
+  "version": "1.0.0",
+  "description": "Campus Notification System Backend - Priority Inbox Feature",
+  "main": "priority-inbox.js",
+  "scripts": {
+    "start": "node priority-inbox.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notifications",
+    "priority",
+    "inbox",
+    "campus"
+  ],
+  "author": "Campus Notification Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
